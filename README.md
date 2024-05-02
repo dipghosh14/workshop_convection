@@ -27,5 +27,6 @@ Interesting files to look at:
 This plots the surface heat flux (column 20) over the time (column 2)
 
 **How to run in parallel**
+
     mpirun -np 2 ~/aspect/aspect tutorial.prm
 
