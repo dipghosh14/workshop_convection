@@ -14,9 +14,9 @@ To run a simulation:
 
 Interesting files to look at:
 
-    - output/log.txt - use xdg-open or leafpad
-    - output/statistcs - same or plot using gnuplot, see below
-    - output/solution.pvd - open in ParaView
+- output/log.txt - use xdg-open or leafpad
+- output/statistcs - same or plot using gnuplot, see below
+- output/solution.pvd - open in ParaView
 
 **How to plot statistics**
 
