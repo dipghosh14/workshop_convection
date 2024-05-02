@@ -2,7 +2,7 @@
 
 To get the tutorial files, open a terminal (ctrl+alt+t or click on the terminal button), then:
 
-git clone https://github.com/gassmoeller/aspect-tutorials
+git clone (https://github.com/dipghosh14/workshop_convection.git)
 
 This creates a folder aspect-tutorials in your home directory.
 Running ASPECT
